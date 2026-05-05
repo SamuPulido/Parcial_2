@@ -6,7 +6,7 @@ public class Principal_2 {
 
     public static void main(String[] args) {
 
-        Parcial parcial = new Parcial(); // instancia de la logica
+        Parcial parcial = new Parcial();
 
         int b = 100; // base
         int e = 100; // exponente
